@@ -1,2 +1,2 @@
-# AccessoryImporterPro
-AccessoryImporterPro
+# AccessoryImporterLite
+AccessoryImporterLite
